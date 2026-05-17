@@ -1,4 +1,4 @@
-# Pi-Telegram Fork — VENOM Production Standards ∞
+# Pi-Telegram — Production Standards
 
 > *The octopus doesn't follow standards. It becomes them.*
 
@@ -203,7 +203,7 @@ WantedBy=multi-user.target
 
 ---
 
-## VENOM Standards
+## Production Standards
 
 ### Code
 - TypeScript strict mode — no `any` without justification
